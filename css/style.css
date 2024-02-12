@@ -1723,7 +1723,7 @@ a:focus {
 }
 
 .footer .footer-social a i {
-    margin-right: 15px;
+    /* margin-right: 15px; */
     font-size: 18px;
     color: #aa9166;
 }
