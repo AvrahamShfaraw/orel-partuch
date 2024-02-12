@@ -1,0 +1,12 @@
+{
+    "name": "your-html-project",
+    "version": "1.0.0",
+    "description": "A simple HTML project",
+    "main": "index.html",
+    "scripts": {
+        "start": "node index.html"
+    },
+    "engines": {
+        "node": "14.x"
+    }
+}
